@@ -1,0 +1,1 @@
+Projeto vaquinha em .Net Core  
